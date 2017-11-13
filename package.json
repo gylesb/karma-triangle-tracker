@@ -1,0 +1,36 @@
+{
+  "name": "triangle-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "jasmine": "^2.8.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "browserify": "^14.5.0",
+    "jasmine-core": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-browserify": "^5.1.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "karma-jquery": "^0.2.2",
+    "watchify": "^3.9.0"
+  },
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gylesb/triangle-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gylesb/triangle-tracker/issues"
+  },
+  "homepage": "https://github.com/gylesb/triangle-tracker#readme"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "triangle-tracker",
+  "homepage": "https://github.com/gylesb/triangle-tracker",
+  "authors": [
+    "Gyles Batara <gyles.batara@live.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
